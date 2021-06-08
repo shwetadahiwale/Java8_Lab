@@ -20,7 +20,7 @@ public class Lab1Ex6 {
 			sum1 += i * i;
 		}
 		{
-			System.out.println("The square of the sum:" + sum1);
+			System.out.println("The Square of the sum:" + sum1);
 			for (i = 1; i <= num; i++) {
 				sum2 += i;
 			}
