@@ -27,7 +27,7 @@ public class Lab1Ex6 {
 		}
 		System.out.println("Sum of the square:" + sum2);
 		sum3 = sum1 - (sum2 * sum2);
-		System.out.println("Difference is :" + sum3);
+		System.out.println("difference is :" + sum3);
 
 	}
 }
