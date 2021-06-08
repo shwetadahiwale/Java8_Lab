@@ -35,7 +35,7 @@ public class Lab1Ex7 {
 		boolean result = obj.checkNumber(number);
 
 		if (result) {
-			System.out.println("This is an increasing number.");
+			System.out.println("This is an Increasing number.");
 		} else {
 			System.out.println("This is NOT an increasing number.");
 		}
